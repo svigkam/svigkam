@@ -1,6 +1,9 @@
+![1619262715_51-phonoteka_org-p-fon-dlya-platformera-56](https://user-images.githubusercontent.com/63847876/165771239-15786c60-0ee9-4e2e-b589-3989938d09d4.png)
+
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="180"/>
-  
+   
+ 
   <div id="badges">
     <a href="https://VK.COM/IGKAM">
       <img src="https://img.shields.io/badge/vk%20profile-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
@@ -10,14 +13,6 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jskam&style=flat-square&color=red" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
