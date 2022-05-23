@@ -5,7 +5,7 @@
    
  
   <div id="badges">
-         <a href="[https://t.me/igkams](https://www.linkedin.com/in/igkam/)">
+         <a href="https://www.linkedin.com/in/igkam">
       <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
     </a>
     <a href="https://VK.COM/IGKAM">
