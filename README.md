@@ -5,12 +5,16 @@
    
  
   <div id="badges">
+         <a href="[https://t.me/igkams](https://www.linkedin.com/in/igkam/)">
+      <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    </a>
     <a href="https://VK.COM/IGKAM">
       <img src="https://img.shields.io/badge/vk%20profile-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
     <a href="https://t.me/igkams">
       <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
     </a>
+     
   </div>
   <img src="https://komarev.com/ghpvc/?username=jskam&style=flat-square&color=red" alt=""/>
 </div>
