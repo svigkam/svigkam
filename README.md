@@ -22,12 +22,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work on mobile applications of varying complexity, trying to do it with different new tools.
+I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- :telescope: I work on applications of varying complexity, trying to do it with different new tools.
 
 - :seedling: Try to use unconventional approaches.
 
-- :zap: In my spare time I try to write mini games or play with new pub.dev packages.
+- :zap: In my spare time I try to write mini games.
 
 - :mailbox:How to reach me: [![VK Badge](https://img.shields.io/badge/-igkam-white?style=flat&logo=vk&logoColor=blue)](https://VK.COM/IGKAM)
 
