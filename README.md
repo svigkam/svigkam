@@ -1,35 +1,12 @@
-![1619262715_51-phonoteka_org-p-fon-dlya-platformera-56](https://user-images.githubusercontent.com/63847876/165771239-15786c60-0ee9-4e2e-b589-3989938d09d4.png)
-
-
-<div id="header" align="center">
+### 🙋‍♂️ Greetings!
+🚀 Hi, my name is Igor, I am from the far east of Russia. Since my childhood I try my hand in different IT spheres, from personal minecraft server, mods, cheats, web design to backend development.
    
- 
-  <div id="badges">
-         <a href="https://www.linkedin.com/in/igkam">
-      <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://VK.COM/IGKAM">
-      <img src="https://img.shields.io/badge/vk%20profile-blue?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
-    </a>
-    <a href="https://t.me/igkams">
-      <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
-    </a>
-     
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=jskam&style=flat-square&color=red" alt=""/>
-</div>
-
----
-
-### :man_technologist: About Me :
-I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I work on applications of varying complexity, trying to do it with different new tools.
-
-- :seedling: Try to use unconventional approaches.
-
-- :zap: In my spare time I try to write mini games.
-
-- :mailbox:How to reach me: [![VK Badge](https://img.shields.io/badge/-igkam-white?style=flat&logo=vk&logoColor=blue)](https://VK.COM/IGKAM)
+During this time I've gained good comprehensive knowledge in different areas which helps me in realizing my projects.
+   
+:mailbox:How to reach me: 
+[![Linkedin](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/igkam) 
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/igkams)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-gray?style=flat&logo=vk&logoColor=white)](https://VK.COM/IGKAM) 
 
 
 ---
@@ -37,21 +14,35 @@ I am a Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="flask" **alt="flask" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" **alt="docker" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" **alt="react" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" **alt="html5" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css3" **alt="css3" height="40"/>
+   <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" **alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_full.png" title="BLoC" **alt="BLoC 8+" height="40"/>
-  <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" title="Hive" **alt="Hive" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQfLite" **alt="SQfLite" height="40"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="spring" **alt="spring" width="40" height="40"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" **alt="git" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS Code" **alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" **alt="linux" height="40"/>
+  
 </div>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jskam&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Jskam)](https://leetcode.com/Jskam)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
