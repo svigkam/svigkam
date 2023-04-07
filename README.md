@@ -38,11 +38,3 @@ During this time I've gained good comprehensive knowledge in different areas whi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" **alt="linux" height="40"/>
   
 </div>
-
----
-
-### :fire: My Stats :
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Jskam)](https://leetcode.com/Jskam)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jskam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
