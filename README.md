@@ -1,5 +1,5 @@
 ### 🙋‍♂️ Greetings!
-🚀 Hi, my name is Igor, I am from the far east of Russia. Since my childhood I try my hand in different IT spheres, from personal minecraft server, mods, cheats, web design to backend development.
+🚀 Hi, my name is Igor, I am from the far east of Russia. I am currently studying software engineering at "FEFU". Since my childhood I try my hand in different IT spheres, from personal minecraft server, mods, cheats, web design to backend development.
    
 During this time I've gained good comprehensive knowledge in different areas which helps me in realizing my projects.
    
