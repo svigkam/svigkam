@@ -4,7 +4,6 @@
 During this time I've gained good comprehensive knowledge in different areas which helps me in realizing my projects.
    
 :mailbox:How to reach me: 
-[![Linkedin](https://img.shields.io/badge/Linkedin-white?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/igkam) 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/igkams)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-gray?style=flat&logo=vk&logoColor=white)](https://VK.COM/IGKAM) 
 
